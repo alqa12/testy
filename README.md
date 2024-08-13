@@ -1,1 +1,1 @@
-wartościowy plik Readme.md zawarty w solucji 
+Proszę zobaczyć wartościowy plik Readme.md zawarty w solucji 
