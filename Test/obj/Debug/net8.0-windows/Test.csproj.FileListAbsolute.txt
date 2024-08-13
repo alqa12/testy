@@ -1,0 +1,5 @@
+C:\Users\alqa9_okk27ur\RiderProjects\Test\Test\obj\Debug\net8.0-windows\Test.csproj.AssemblyReference.cache
+C:\Users\alqa9_okk27ur\RiderProjects\Test\Test\obj\Debug\net8.0-windows\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alqa9_okk27ur\RiderProjects\Test\Test\obj\Debug\net8.0-windows\Test.AssemblyInfoInputs.cache
+C:\Users\alqa9_okk27ur\RiderProjects\Test\Test\obj\Debug\net8.0-windows\Test.AssemblyInfo.cs
+C:\Users\alqa9_okk27ur\RiderProjects\Test\Test\obj\Debug\net8.0-windows\Test.csproj.CoreCompileInputs.cache
